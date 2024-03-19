@@ -4,4 +4,4 @@ title: Architecture
 permalink: /architecture/
 ---
 
-+ (Architecture Deliverable)[]
++ [Architecture Deliverable]()
