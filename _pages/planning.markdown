@@ -4,6 +4,4 @@ title: Planning
 permalink: /planning/
 ---
 
-# Planning
-
-+ [project_planning](/assets/project_planning.pdf)
++ [project_planning]({{site.url}}/{{site.baseurl}}/assets/project_planning.pdf)
