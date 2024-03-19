@@ -4,5 +4,4 @@ title: Planning
 permalink: /planning/
 ---
 
-
-Planning Planning Planning
+# Planning

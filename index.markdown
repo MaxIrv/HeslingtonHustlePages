@@ -5,4 +5,7 @@
 layout: page
 ---
 
-Hello.
+# Welcome
+
+This website contains all the deliverables and documentation for our project. You can use the
+menu bar above to move between pages.
