@@ -5,5 +5,5 @@ permalink: /risk/
 ---
 
 + [Combined Deliverable]()
-+ [Explanation of method]()
-+ [Risk Register]()
++ [Explanation of method](../assets/risk_management.pdf)
++ [Risk Register](../assets/risk_register.pdf)
