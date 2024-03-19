@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Risk Managment
+title: Risk Management
 permalink: /risk/
 ---
