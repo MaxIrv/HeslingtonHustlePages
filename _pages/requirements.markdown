@@ -4,4 +4,4 @@ title: Requirements
 permalink: /requirements/
 ---
 
-+ [Requirements Deliverable]({{baseurl}})
++ [Requirements Deliverable](assets/requirements.pdf)
