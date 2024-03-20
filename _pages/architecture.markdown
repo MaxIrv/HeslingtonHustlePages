@@ -4,4 +4,7 @@ title: Architecture
 permalink: /architecture/
 ---
 
-+ [Architecture Deliverable]()
+## Deliverables and Downloads
++ [Architecture Deliverable](../assets/architecture_deliverable.pdf)
+
+## Diagrams
