@@ -9,8 +9,8 @@ permalink: /architecture/
 
 ## Diagrams
 
-### Fig 1: Flow Diagrams
-![Flow diagram](../assets/Heslingtonhustle-Initialdraft%20.png)
+### Fig 1: Initial Diagrams
+![Initial diagram](../assets/Heslingtonhustle-Initialdraft%20.png)
 ### Fig 2: Collaboration Diagram
 ![Collaboration cards](../assets/HeslingtonHustleCollabarationCards.png)
 ### Fig 3: Usecase Diagram
