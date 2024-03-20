@@ -32,11 +32,11 @@ plugins:
   - jekyll-feed
 
 header_pages: 
-  - architecture.markdown
-  - implementation.markdown
-  - planning.markdown
-  - requirements.markdown
-  - risk.markdown
+  - _pages/architecture.markdown
+  - _pages/implementation.markdown
+  - _pages/planning.markdown
+  - _pages/requirements.markdown
+  - _pages/risk.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
