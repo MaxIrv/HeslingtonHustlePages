@@ -6,4 +6,5 @@ layout: home
 ---
 
 This website contains all the deliverables and documentation for our project. You can use the
-menu bar above to move between pages.
+menu bar above to move between pages. For code documentation and the link to the github checkout
+the **[implementation](implemtation)** page.

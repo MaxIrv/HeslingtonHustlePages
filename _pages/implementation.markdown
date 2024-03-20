@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Documentation
-permalink: /documentation/
+title: Implementation
+permalink: /implementation/
 ---
 
-+ Our project has full javadocs, view them here: [Javadocs](../javadoc/)
+## Deliverable
 + [Implementation deliverable](../assets/implementation_deliverable.pdf)
+
++ Our project has full javadocs, view them here: [Javadocs](../javadoc/)
