@@ -10,14 +10,14 @@ permalink: /architecture/
 ## Diagrams
 
 ### Diagram?
-[Diagram?](../assets/Heslingtonhustle-Initialdraft%20.png)!
+![Diagram?](../assets/Heslingtonhustle-Initialdraft%20.png)
 ### Class Diagram 1
-[Class diagram 1](../assets/HeslingtonHustleClassdiagram1.png)!
+![Class diagram 1](../assets/HeslingtonHustleClassdiagram1.png)
 ### Class Diagram 2
-[Class diagram 2](../assets/HeslingtonHustleClassdiagram2.png)!
+![Class diagram 2](../assets/HeslingtonHustleClassdiagram2.png)
 ### Collaboration Diagram
-[Collaboration cards](../assets/HeslingtonHustleCollabarationCards.png)!
+![Collaboration cards](../assets/HeslingtonHustleCollabarationCards.png)
 ### Sequence Diagram
-[Sequence diagram](../assets/HeslingtonHustleSequenceDiagram.png)!
+![Sequence diagram](../assets/HeslingtonHustleSequenceDiagram.png)
 ### Usecase Diagram
-[Usecase diagram](../assets/HeslingtonHustleUseCaseDiagram.png)!
+![Usecase diagram](../assets/HeslingtonHustleUseCaseDiagram.png)
